@@ -10,17 +10,16 @@ This project analysed a synthetic dataset of 50,000 hospital admission records, 
 
 The dataset contained data quality issues, including inconsistent spellings, missing values, impossible values, mixed date formats, and duplicate records. After cleaning, 48,019 records remained for analysis.
 
-## Full Project Report
-
-The detailed project report will be available here:
-
-[View Full Hospital Length of Stay Analysis Report (PDF)](Hospital_Length_of_Stay_Factors_Analysis_Report.pdf)
-
-
 **Dataset:** Synthetic hospital admission records  
 **Records before cleaning:** 50,000  
 **Records after cleaning:** 48,019  
 **Tools:** Python, pandas, NumPy, SciPy, Matplotlib
+
+## Full Project Report
+
+The detailed project report will be available here:
+[View Full Hospital Length of Stay Analysis Report (PDF)](Hospital_Length_of_Stay_Factors_Analysis_Report.pdf)
+
 
 ## Project Objectives
 
