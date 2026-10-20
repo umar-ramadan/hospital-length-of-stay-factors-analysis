@@ -18,6 +18,7 @@ The dataset contained data quality issues, including inconsistent spellings, mis
 ## Full Project Report
 
 The detailed project report will be available here:
+
 [View Full Hospital Length of Stay Analysis Report (PDF)](Hospital_Length_of_Stay_Factors_Analysis_Report.pdf)
 
 
