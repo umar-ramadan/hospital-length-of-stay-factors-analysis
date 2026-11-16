@@ -40,7 +40,7 @@ The data included patient and admission characteristics, clinical information, w
 
 The dataset was deliberately created with data quality problems to support practical data cleaning and validation.
 
-[View the full original dataset](https://github.com/umar-ramadan/hospital-length-of-stay-factors-analysis/tree/main)
+[View the full original dataset](https://github.com/umar-ramadan/hospital-length-of-stay-factors-analysis/blob/main/Hospital_Length_of_Stay_Factors_Analysis_Report.pdf)
 
 ## Tools and Technologies
 
